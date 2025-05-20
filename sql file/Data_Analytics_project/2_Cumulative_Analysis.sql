@@ -6,7 +6,7 @@
 SELECT 
     order_year_with_month,
     total_sales,
-    SUM(total_sales) OVER (PARTITION BY order_year_with_month ORDER BY order_year_with_month) AS running_total,
+    SUM(total_sales) OVER (ORDER BY order_year_with_month) AS running_total,
     ROUND(AVG(avg_price) OVER (PARTITION BY order_year_with_month ORDER BY order_year_with_month),2) AS moving_avg_price
 FROM 
 (
