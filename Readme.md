@@ -81,7 +81,7 @@ Most products show a pattern of low sales in the first year, a significant incre
 
 ### 4. Part to whole Analysis
 
-**🖥️ Query**: [4_Part_to_whole_Analysis.sql](/sql%20file/Data_Analytics_project/4_Part_to_whole_Analysis.sql)
+**🖥️ Query**: [4_Part_to_whole_Analysis.sql](/sql%20file/Data_Analytics_project/4_Part_to_whole%20Analysis.sql)
 
 **📈 Visualization:**
 
