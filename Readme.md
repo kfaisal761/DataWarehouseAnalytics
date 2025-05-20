@@ -22,7 +22,7 @@ Analysis of change over time, cumulative analysis, performance analysis, part to
 
 **📈 Visualization:**
 
-![Customer Segmentation](/Images/1_customer_segmentation_analysis.png)
+![1_Changes_Over_Time_Analysis](/Project%20charts/1_Change_over_time_analysis.png)
 
 📊 **Key Findings:**
 - There is a clear upward trend in total sales, customers, and quantity from late 2010 through 2013, indicating business growth.
@@ -38,16 +38,6 @@ Analysis of change over time, cumulative analysis, performance analysis, part to
 - Cohorts were grouped by year of first purchase
 - Analyzed customer revenue at a cohort level
 
-**📈 Visualization:**
-
-
-Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
-
-![Customer Revenue Normalized](/Images/2_customer_revenue_normalized.png)
-
-Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
-
-![Monthly Revenue Customers 3 months](/Images/2_monthly_revenue_customers_3mo.png)
 
 📊 **Key Findings:**
 - **Running Total Trends:**
@@ -69,7 +59,11 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
 **📈 Visualization:**
 
-![Customer churn cohort year](/Images/3_customer_churn_cohort_year.png)
+![Performance Analysis - Current v/s Average Sales](/Project%20charts/3_Curent%20vs%20avg%20sales_analysis.png)
+
+![Performance Analysis - YoY Analysis](/Project%20charts/3_YoY_analysis.png)
+
+
 
 📊 **Key Findings:**  
 Most products show a pattern of low sales in the first year, a significant increase in the second year, followed by a sharp decrease in the third year.
@@ -85,7 +79,7 @@ Most products show a pattern of low sales in the first year, a significant incre
 
 **📈 Visualization:**
 
-![Customer Segmentation](/Images/1_customer_segmentation_analysis.png)
+![Part to whole Analysis](/Project%20charts/4_Pat_to_whole_anlaysis.png)
 
 📊 **Key Findings:**
 - The **Bikes** category overwhelmingly dominates sales, accounting for **96.46%** of total sales.
@@ -102,7 +96,7 @@ Most products show a pattern of low sales in the first year, a significant incre
 
 **📈 Visualization:**
 
-![Customer Segmentation](/Images/1_customer_segmentation_analysis.png)
+![Data Segmentation](/Project%20charts/5_Data_segmentation.png)
 
 📊 **Key Findings:**
 - The **New** customer segment is by far the largest, with **14,631** customers.
@@ -148,6 +142,6 @@ Most products show a pattern of low sales in the first year, a significant incre
 ### Tools and Environment
 - **Database:** SQL Server, PostgreSQL, MySQL, or equivalent relational database supporting advanced window functions and CTEs.
 - **SQL Client:** Tools like DBeaver, pgAdmin, SQL Server Management Studio, or command-line clients.
-- **Visualization:** Exported query results to BI tools such as Tableau, Power BI, or Excel for graphical presentation.
+- **Visualization:** Exported query results to BI tools such as Power BI, or Excel for graphical presentation.
 - **Version Control:** SQL scripts and visualization images organized in a project directory with version control (e.g., Git).
 
