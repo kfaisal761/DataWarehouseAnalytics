@@ -22,7 +22,7 @@ Analysis of change over time, cumulative analysis, performance analysis, part to
 
 **📈 Visualization:**
 
-![1_Changes_Over_Time_Analysis](/Project%20charts/1_Change_over_time_analysis.png)
+![1_Changes_Over_Time_Analysis](/Project%20charts/1__Change%20over%20time%20analysis.png)
 
 📊 **Key Findings:**
 - There is a clear upward trend in total sales, customers, and quantity from late 2010 through 2013, indicating business growth.
