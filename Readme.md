@@ -66,12 +66,31 @@ Analysis of change over time, cumulative analysis, performance analysis, part to
 
 
 📊 **Key Findings:**  
-Most products show a pattern of low sales in the first year, a significant increase in the second year, followed by a sharp decrease in the third year.
-- Products like **AWC Logo Cap**, **All-Purpose Bike Stand**, and **HL Mountain Tire** show substantial fluctuations around their average sales.
-- The year 2013 generally shows **"Above Average"** sales across many products, indicating a strong sales year.
-- The following year, 2014, mostly shows **"Below Average"** sales compared to both the previous year and average sales, signaling a drop in demand or other market conditions.
-- The sales changes (`py_change`) clearly indicate growth in 2013 and a decline in 2014 for most products.
+1. Performance Based on Average Sales
 
+The product sales were evaluated against average performance benchmarks:
+
+- 🔻 **Below Average Sales**:  
+  **137 products** fell below the average sales threshold, indicating a significant portion of the portfolio is underperforming.
+
+- 🔺 **Above Average Sales**:  
+  **104 products** exceeded average sales, showing strong performance in several product lines.
+
+- ⚖️ **Average Sales**:  
+  Only **30 products** sold at levels close to the average, suggesting a polarized trend in sales — most products are either outperforming or underperforming, with very few performing at an average level.
+
+2. Performance Compared to Previous Year
+
+Sales were also compared against the previous year's performance to assess growth trends:
+
+- ➖ **No Change**:  
+  **130 products** showed no change in sales compared to the prior year, indicating a stable performance for the majority of the portfolio.
+
+- 📈 **Increase in Sales**:  
+  **96 products** recorded a year-over-year sales increase, highlighting positive momentum in the business.
+
+- 📉 **Decrease in Sales**:  
+  **45 products** experienced a decline in sales compared to the previous year.
 
 ### 4. Part to whole Analysis
 
